@@ -38,7 +38,7 @@ which is in the row which includes the ‘Finish’ square (the row of squares f
 
 ## Screenshots
 # Snakes & Ladders menu option :
-(![image](https://user-images.githubusercontent.com/73062879/145276787-5da151b2-be9b-464f-ab0d-5b8d5aa02f9d.png)
+![image](https://user-images.githubusercontent.com/73062879/145276787-5da151b2-be9b-464f-ab0d-5b8d5aa02f9d.png)
 
 
 
